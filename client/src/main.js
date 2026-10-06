@@ -11,6 +11,7 @@ document.querySelector('#app').innerHTML = `
     <img src="${javascriptLogo}" class="framework" alt="JavaScript logo"/>
     <img src="${viteLogo}" class="vite" alt="Vite logo" />
   </div>
+  <h1>Welcome to the Calculation Game</h1>
   <div>
     <h1>Get started</h1>
     <p>Edit <code>src/main.js</code> and save to test <code>HMR</code></p>
